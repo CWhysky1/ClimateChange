@@ -16,8 +16,8 @@ body {
   header {
     text-align: center;
     letter-spacing: 0.1em;
-    color: white;
-    background-color: #619293;
+    color: #629192;
+    background-color: #c4e6e6;
     border-radius: 50%;
   }
 
@@ -32,8 +32,8 @@ header, section, div, nav, footer {
 /* header and footer */
 
 footer, nav {
-    border-top: 5px solid #a66;
-    border-bottom: 5px solid #a66;
+    border-top: 5px solid #ddccba;
+    border-bottom: 5px solid #ddccba;
     background-color: #c4e6e6;
   }
 
